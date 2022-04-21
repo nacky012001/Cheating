@@ -1,0 +1,42 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Rear Gear",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Mounth",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Handgear",
+      "value": "Unknown"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Unknown"
+    }
+  ],
+  "image": "https://ipfs.io/ipfs/bafybeihldlmatk2fwcpbkivmzb4nfv5ah3jy3eavdov6yyiclg4ublcbti",
+  "name": "KamiTama #1"
+}
